@@ -1,0 +1,14 @@
+{
+  "name": "buster",
+  "version": "1.0.0",
+  "description": "Cache Busting",
+  "main": "index.js",
+  "scripts": {
+    "bust": "node bust.js"
+  },
+  "author": "RPK",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.0"
+  }
+}
